@@ -1,3 +1,4 @@
+
 # LeetCode
 ## Easy
 1 [N repeated element in size 2N array](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/easy/N-repeated_element_in_size_2N_array.ipynb)
@@ -63,3 +64,33 @@
 32 [Valid Parantheses](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/easy/valid_parentheses.py)
 ## Medium
 1 [Search in a rotated sorted array](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/search_in_rotated_sorted_array.ipynb)
+
+2 [Copy list with random pointer](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/copy_list_with_random_pointer.py)
+
+3 [Counting bits](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/counting_bits.py)
+
+4 [Game of life](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/game_of_life.py)
+
+5 [Group anagrams](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/gropu_anagrams.py)
+
+6 [Max increase to keep city skyline](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/max_increase_to_keep_city_skyline.ipynb)
+
+7 [Merge intervals](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/merge_intervals.py)
+
+8 [Minimum domino rotations for equal row](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/minimum_domino_rotations_for_equal_row.py)
+
+9 [Number of islands](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/number_of_islands.py)
+
+10 [Product of array except  self](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/product_of_array_except_self.py)
+
+11 [Remove duplicate sorted linked list](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/remove_duplicate_sorted_linkedlist.ipynb)
+
+12 [Search in rotated sorted array](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/search_in_rotated_sorted_array.ipynb)
+
+13 [Set matrix zero without buffer](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/set_matrix_zero_without_buffer.ipynb)
+
+14[Spiral matrix](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/spiral_matrix.py)
+
+15 [Subarray sum equals k](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/subarray_sum_equals_k.py)
+
+16[Sum of even valued grandparent](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/sum_of_even_valued_grandparent.py)
