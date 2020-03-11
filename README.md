@@ -89,8 +89,11 @@
 
 13 [Set matrix zero without buffer](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/set_matrix_zero_without_buffer.ipynb)
 
-14[Spiral matrix](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/spiral_matrix.py)
+14 [Spiral matrix](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/spiral_matrix.py)
 
 15 [Subarray sum equals k](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/subarray_sum_equals_k.py)
 
-16[Sum of even valued grandparent](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/sum_of_even_valued_grandparent.py)
+16 [Sum of even valued grandparent](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/sum_of_even_valued_grandparent.py)
+
+# Hard
+1 [Reverse node in k-group](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/hard/reverse_node_in_k-group.py)
