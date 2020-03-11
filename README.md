@@ -54,5 +54,12 @@
 
 28 [Subdomain visit count](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/easy/subdomain_visit_count.py)
 
+29 [Two sum](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/easy/two_sum.py)
+
+30 [Unique morse code words](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/easy/unique_morse_code_words.ipynb)
+
+31 [Valid Palindrome](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/easy/valid_palindrome.py)
+
+32 [Valid Parantheses](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/easy/valid_parentheses.py)
 ## Medium
 1 [Search in a rotated sorted array](https://github.com/sarthakkhandelwal7/LeetCode/blob/master/medium/search_in_rotated_sorted_array.ipynb)
