@@ -5,11 +5,10 @@ class Solution:
     def groupAnagrams(self, strs):
         anagrams = defaultdict(list)
         for i in strs:
-            sum = 0
+            count = [0]*26
             for char in i:
-                sum += ord(char) - ord('a')
-
-            anagrams[sum].append(i)
+                count[ord(char) - ord('a')] += 1
+            anagrams[tuple(count)].append(i)
         return [i for i in anagrams.values()]
 
 
