@@ -3,7 +3,7 @@ class Solution:
         if len(s) and not len(wordDict):
             return False
 
-        def check(st: str) -> bool
+        def check(st: str) -> bool:
             if not st:
                 return True
             word = ''

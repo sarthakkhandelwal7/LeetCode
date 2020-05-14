@@ -3,13 +3,10 @@ class Solution:
         result = ''
 
         def find_string(left: int, right: int) -> str:
-            print(f'left: {left}\tright: {right}')
             while left >= 0 and right < len(s) and s[left] == s[right]:
                 left -= 1
                 right += 1
-            print(s[left:right+1])
-            print(s[left+1:right])
-            print()
+
             return s[left+1:right]
 
         for i in range(len(s)):
